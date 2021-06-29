@@ -12,9 +12,35 @@ h1 {
     text-align: center;
 }
 
-a {
+#link {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
     padding-bottom: 1cm;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+#foot {
+    color: white;
+
+}
+
+#copywrite {
+    color: grey;
+    text-align: right;
+}
+ 
+#small-phone {
+    margin-right: auto;
+    margin-left: auto;
 }
